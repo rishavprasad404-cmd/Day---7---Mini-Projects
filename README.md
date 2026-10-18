@@ -12,3 +12,4 @@ Language: Python
 ### Project 1 - Marks Calcualtor
 
 ### Project 2 - Profile Generator
+![Profile Generator Output] (https://github.com/rishavprasad404-cmd/Day---7---Mini-Projects/blob/6c2346799b1590d0a5aebdb34dbb8587b33f2451/Screenshot%20(2).png)
