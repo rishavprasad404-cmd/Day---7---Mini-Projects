@@ -42,7 +42,20 @@ A simple command-line based ATM System built with Python. This project simulates
 Concepts Used
 input() and print() float() for balance if-else conditions Nested if-else Comparison operators ==, >
 
-### Output Scrrenshots
+### Output Screenshots
 ### Project 3 - ATM Systm
 ![ATM System Output] (https://github.com/rishavprasad404-cmd/Day---7---Mini-Projects/blob/d7c6611fe2ff225486f92c48d1c5adbd779cf291/Screenshot%20(3).png)
 
+Project 4: - Multiplication Table
+- Take number from the user and print its table from 1 to 10
+- Use for loop with range (1, 11)
+- If input is 5 -> 5 x 1 = 5 to 5 x 10 = 50
+
+Concept Used
+input(), print(), int()
+for loop and range()
+String and arithmetic operation
+
+### Output Screenshots
+### Project 4 - Multiplication Table
+![Multiplication Output] (https://github.com/rishavprasad404-cmd/Day---7---Mini-Projects/blob/61cbe3f83cb5a05f63badd73a05bc4068d2d17a6/Screenshot%20(4).png)
