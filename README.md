@@ -31,3 +31,6 @@ Put your images in `output/` folder and they will show here:
 ### ⚙️ How to Run
 ```bash
 python "1. Student Marks Calculator.py"
+python "2. Personal Profile Generator .py"
+python "3. ATM System .py"
+python "4. Multiplication Table .py"
