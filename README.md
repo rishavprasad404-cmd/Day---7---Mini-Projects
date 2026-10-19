@@ -39,14 +39,10 @@ A simple command-line based ATM System built with Python. This project simulates
    - If Withdraw: Checks if balance is sufficient, then withdraws
 6. If passwords don't match -> Shows "Wrong Password"
 
-### How to Run
-```bash
-python 1.\ ATM\ System.py
-
 Concepts Used
 input() and print() float() for balance if-else conditions Nested if-else Comparison operators ==, >
 
-# Output Scrrenshots
+### Output Scrrenshots
 ### Project 3 - ATM Systm
 ![ATM System Output] (https://github.com/rishavprasad404-cmd/Day---7---Mini-Projects/blob/d7c6611fe2ff225486f92c48d1c5adbd779cf291/Screenshot%20(3).png)
 
