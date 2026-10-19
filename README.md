@@ -1,61 +1,33 @@
-#  Python Mini-Projects
-Project 1 : Student Marks Calculator
-- Takes marks of 3 subjects
-- Calculate Total and Percentage
+# 🐍 Python Mini-Projects
 
-Project 2 : Personal Profile and Status Generator
-- Take Name, Birth Year, Current Year, City
-- Shows Uppercase, Lowercase, Age, Adult check, Name Length 
-Concepts Used: input(), int(), float(), len(), upper(), lower()
-Language: Python
+A collection of 4 beginner-friendly Python projects — simple, practical, and fun to learn
 
-# Output Screenshots
-### Project 1 - Marks Calcualtor
-![Marks Calculator Output] (https://github.com/rishavprasad404-cmd/Day---7---Mini-Projects/blob/cfccf6b35ae966302c8a1b9037469bef66388aac/Screenshot%20(1).png)
-### Project 2 - Profile Generator
-![Profile Generator Output] (https://github.com/rishavprasad404-cmd/Day---7---Mini-Projects/blob/6c2346799b1590d0a5aebdb34dbb8587b33f2451/Screenshot%20(2).png)
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+![PRs](https://img.shields.io/badge/PRs-Welcome-yellow)
+![Made](https://img.shields.io/badge/Made%20with-%F0%9F%92%9C-purple)
 
-Project 3: - ATM System
+### ✨ About
+This repository contains small Python mini-projects built for learning and practice. Each project is self-contained, easy to run, and perfect for beginners to strengthen Python fundamentals like loops, conditionals, and input/output.
 
-A simple command-line based ATM System built with Python. This project simulates basic ATM operations like setting a password, depositing money, and withdrawing money.
+### 🚀 Features
+- Beginner-friendly & well commented code
+- Clean structure — each project in its own folder
+- Interactive command-line applications
+- Great for learning Python basics
 
-### Project File
-- `3. ATM System.py` - Main project file
+### 📦 Projects Overview
 
-### Features
-- **Password Protection:** User sets a password and confirms it for access
-- **Access Granted System:** Only gives access if both passwords match
-- **Deposit Option:** Adds deposited amount to total balance
-- **Withdraw Option:** Withdraws amount if sufficient balance is available
-- **Balance Check:** Shows updated balance after every transaction
+| Day | Project | Description | Status |
+|-----|---------|-------------|--------|
+| Day 7 | Student Marks Calculator | Calculate total, average, grade from marks | ✅ |
+| Day 7 | Personal Profile Generator | Generate a formatted personal profile | ✅ |
+| Day 14 | ATM System | Simple ATM with balance check, deposit, withdraw | ✅ |
+| Day 14 | Multiplication Table | Generate multiplication table for any number | ✅ |
 
-### How It Works
-1. User sets a password
-2. User enters total balance
-3. User confirms password again
-4. If `password == confirm password` -> Access Granted
-5. User chooses `Deposit` or `Withdraw`
-   - If Deposit: `Updated Balance = Total Balance + Deposit Amount`
-   - If Withdraw: Checks if balance is sufficient, then withdraws
-6. If passwords don't match -> Shows "Wrong Password"
+### 📸 Output Screenshots
+Put your images in `output/` folder and they will show here:
 
-Concepts Used
-input() and print() float() for balance if-else conditions Nested if-else Comparison operators ==, >
-
-### Output Screenshots
-### Project 3 - ATM Systm
-![ATM System Output] (https://github.com/rishavprasad404-cmd/Day---7---Mini-Projects/blob/d7c6611fe2ff225486f92c48d1c5adbd779cf291/Screenshot%20(3).png)
-
-Project 4: - Multiplication Table
-- Take number from the user and print its table from 1 to 10
-- Use for loop with range (1, 11)
-- If input is 5 -> 5 x 1 = 5 to 5 x 10 = 50
-
-Concept Used
-input(), print(), int()
-for loop and range()
-String and arithmetic operation
-
-### Output Screenshots
-### Project 4 - Multiplication Table
-![Multiplication Output] (https://github.com/rishavprasad404-cmd/Day---7---Mini-Projects/blob/61cbe3f83cb5a05f63badd73a05bc4068d2d17a6/Screenshot%20(4).png)
+### ⚙️ How to Run
+```bash
+python "1. Student Marks Calculator.py"
